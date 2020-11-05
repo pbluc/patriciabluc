@@ -1,0 +1,24 @@
+.navbar {
+    overflow: hidden;
+    opacity: 1;
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+    float: left;
+    display: block;
+    color: #000000;
+    text-align: center;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: "Verdana";
+    font-size: 18px;
+}
+
+/* Change background on mouse-over */
+.navbar a:hover {
+    background: rgb(190, 187, 187);
+    color: rgb(255, 255, 255);
+}
