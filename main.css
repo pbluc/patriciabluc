@@ -38,10 +38,10 @@ section.visible {
 a.inline {
     position: relative;
     text-decoration: none;
-    color: #81b69d;
+    color: #f8b9b9;
 }
 a.inline:active {
-    color: #81b69d;
+    color: #f8b9b9;
     text-decoration: none;
 }
 a.inline:after {
@@ -50,7 +50,7 @@ a.inline:after {
     bottom: 0;
     left: 0;
     width: 0%;
-    border-bottom: 2px solid #81b69d;
+    border-bottom: 2px solid #f8b9b9;
     transition: 0.4s;
 }
 a.inline:hover:after {
